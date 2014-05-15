@@ -1,0 +1,22 @@
+#latest-photos {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#latest-photos li {
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+}
+#latest-photos li a {
+  display: block;
+  background: #fff;
+  border: 1px solid #dfdfdf;
+  padding: 5px;
+  margin-right: 4px;
+  margin-bottom: 10px;
+  line-height: 0;
+}
+#latest-photos li a:hover {
+  border: 1px solid #444442;
+}
