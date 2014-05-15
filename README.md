@@ -40,4 +40,4 @@ Add little bit of html where tags would be inserted:
 
 **startPage** [0 | 1, default: 0] - set to 1 if flickr limits photoset results in future, otherwise don't be bothered with it
 
-**size** ['s' | 'q' | 't' | 'm' | 'n' | 'z' | '-' | 'c' | 'b' | 'o', default: 's'] - change the image size and type. See the [description]https://www.flickr.com/services/api/misc.urls.html)
+**size** ['s' | 'q' | 't' | 'm' | 'n' | 'z' | '-' | 'c' | 'b' | 'o', default: 's'] - change the image size and type. See the [description](https://www.flickr.com/services/api/misc.urls.html)
